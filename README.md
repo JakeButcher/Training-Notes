@@ -1,2 +1,2 @@
 # Training-Notes
-Notes for all my training 
+A Repository created to store all my training notes.
