@@ -1,0 +1,4 @@
+	- Difference between commands built into the shell (cmd.exe) and executables
+	- dir works in PowerShell but only because PowerShell has an alias that resolved to Get-ChildItem
+	- Therefore the switches used must be those for Get-ChildItem and NOT dir
+	- If you call an executable, e.g. IPCONFIG.exe then the existing switches work
