@@ -1,0 +1,15 @@
+https://github.com/powershell/powershell
+
+PowerShell Core can be reinstalled, or Chocolatey can check and update as required
+
+
+**** Run as Admin
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+
+**** Restart PowerShell and run as admin
+
+choco outdated
+
+choco upgrade powershell-core
