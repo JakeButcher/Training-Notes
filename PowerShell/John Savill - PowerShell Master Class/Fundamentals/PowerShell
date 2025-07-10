@@ -1,0 +1,4 @@
+	- Formally codename Monad
+	- Provides an environment for both executing live commands and creating powerful scripts
+	- Built on the .NET Framework (and now .NET Core) and is focused around objects enabling rich sequences to be created which can perform complex tasks
+	- Uses a common syntax and common verb-noun pair command naming for Cmdlets
