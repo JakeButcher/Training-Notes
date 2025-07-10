@@ -1,0 +1,6 @@
+At least initially
+	- For most CMD.exe intrinsic commands for PowerShell has an alias to the PowerShell cmdlet
+	- However, start to learn the proper PowerShell methods rather than relying on aliases long term
+	- In scripts use the full commands rather than aliases
+	
+	Get-Alias
