@@ -1,0 +1,8 @@
+	- Originally part of Nano Server but now the future of PowerShell
+	- PowerShell Core runs on .NET Core
+	- This enables cross-platform usage
+	- Most existing PowerShell works on PowerShell Core
+	- Many existing modules updated with Core compatibility
+	- Can co-exist with Windows PowerShell
+	- Has its own module folder
+	
