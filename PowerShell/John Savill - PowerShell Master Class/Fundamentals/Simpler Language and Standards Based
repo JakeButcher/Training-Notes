@@ -1,0 +1,7 @@
+	- Thousands of cmdlets so simplicity is important
+	- PowerShell is focused on "least cognitive distance" between what you want to do and the actual command
+	- <verb>-<noun>
+	- New core cmdlets related to new functionality and also changes to existing cmdlets to match simpler syntax and more features (e.g. Get-ChildItem)
+	- PowerShell can manage non-Windows such as Linux as WSMan and CIM (WMI2) are the default protocols for management
+	- PowerShell Core utilizes SSH in addition to WSMan
+	- Remote Management enabled by default
