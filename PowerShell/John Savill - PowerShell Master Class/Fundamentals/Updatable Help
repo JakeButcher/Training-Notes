@@ -1,0 +1,9 @@
+Help for cmdlets is pulled from the internet and installed into correct location for module (language specific)
+	- Update-Help (run elevated)
+	- Save-Help (save to folder and use this with above Update-Help cmdlet)
+
+Get-Help will automatically pull down the latest help
+Get-Help <cmdlet> -Online for web based help information
+	- Get-Help New-VHD -Online
+	- (Get-Command New-VHD).HelpUri
+
