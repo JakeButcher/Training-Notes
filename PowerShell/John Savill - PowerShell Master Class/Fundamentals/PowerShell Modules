@@ -1,0 +1,6 @@
+	- Modules are loaded which contain PowerShell functionalities such as cmdlets
+	- Get-Module to see those loaded
+	- Get-Module -listavailable to see all available
+	- Import-Module <module> to add into PowerShell instance
+
+Get-Command -Module | Select -Unique Noun | Sort Noun
