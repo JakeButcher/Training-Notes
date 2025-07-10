@@ -1,0 +1,11 @@
+Get-Help <cmdlet>
+
+Also available for:
+	- Full
+	- Detailed
+	- Examples
+	- Online (to display in web)
+	- Showwindow
+	
+Get-Command -Module <module>
+Get-Command -Noun <noun>
