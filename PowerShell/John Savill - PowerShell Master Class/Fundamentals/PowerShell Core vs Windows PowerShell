@@ -1,0 +1,6 @@
+	- Windows PowerShell will continue to ship as part of Windows, but is unlikely to get new capabilities
+	- PowerShell Core is the future of PowerShell innovation
+	- PowerShell Core is available cross-platform
+	- Expect more functionality and modules to support PowerShell Core
+	- Where possible make PowerShell Core the primary environment with development using VS Code
+	- Windows PowerShell is still available side-by-side to be used if required
