@@ -1,0 +1,5 @@
+Can Use tab character for:
+	- Cmdlet completion
+	- Cycling through parmeters
+	- Cycling through valid values for parameters (where the parameter has a set of valid values)
+	- Cycling through files and folders
