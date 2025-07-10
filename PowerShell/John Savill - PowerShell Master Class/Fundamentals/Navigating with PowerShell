@@ -1,0 +1,10 @@
+Regular commands will work but file system is not the only hierarchical storage system
+	- Registry
+	- Certificate Store
+	- Active Directory
+	- RDS
+	- IIS
+
+These can also be navigated and configured like a file system
+
+Get-PSDrive
