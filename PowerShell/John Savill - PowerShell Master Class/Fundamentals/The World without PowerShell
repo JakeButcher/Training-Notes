@@ -1,0 +1,4 @@
+	- Many administrators are used to using the Command Prompt
+	- The Command Prompt has some built-in commands such as dir and can call separate executables such as ipconfig
+	- Batch files can be created to perform a fixed set of tasks
+	- Some pipelining (|) is possible but the output of the command is a text string
