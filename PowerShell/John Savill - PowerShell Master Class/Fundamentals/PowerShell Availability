@@ -1,0 +1,38 @@
+PowerShell v2 is available for
+	- Windows Server 2008 SP1 +
+	- Windows Vista SP 2 +
+	- Windows XP SP 2 +
+Preinstalled in Windows Server 2008 R2 and Windows 7
+.NET Framework 2.0 SP1 required
+.NET Framework 3.5 SP1 required for ISE
+
+
+PowerShell v3 
+	- Standard in Windows Server 2012 and Windows 8
+	- Also available as part of Windows Management Framework 3.0 (WMF)
+	- Available for Windows Server 2008 SP2, 2008 R2 SP1 and Windows 7
+	- Can be installed side-by-side with PowerShell v2
+	- Consider this the minimum version
+
+
+PowerShell v4
+	- Standard in Windows Server 2012 R2 and Windows 8.1
+	- Also available as part of Windows Management Framework 4.0 (WMF)
+	- Available for Windows Server 2008 R2 SP1, Windows Server 2012 and Windows 7 SP1
+	- Still have version 2 available
+
+
+PowerShell v5
+	- New cmdlets such as Get-ItemPropertyValue (to look at property values directly)
+	- Windows PowerShell Integrated Scripting Environment (ISE) updates
+	- Windows PowerShell Desired State Configuration (DSC) performance and optimization (and bug fixes)
+	- Network Switch cmdlets (in the NetworkSwitch module), which allow management of switches that are Windows Server 2012 R2 certified to have management related to global configuration, VLAN configuration, and Layer 2 port configurations performed.
+	- OneGet, which allows the discovery and installation of packages from around the web, including services such as Chocolatey
+
+
+PowerShell v5.1
+	- Included in Windows Server 2016 and Windows 10
+	- Also part of WMF 5.1
+	- Available for Windows 7, Windows 2008 R2 and above
+	- Requires .NET Framework 4.5
+	- Minor changes
