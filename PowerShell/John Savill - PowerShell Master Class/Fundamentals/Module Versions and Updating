@@ -1,0 +1,6 @@
+	- Modules go through updates
+	- Check version with
+		○ (Get-Module <module name>).Version
+	**** This is in brackets to get the module as an object
+	
+	
