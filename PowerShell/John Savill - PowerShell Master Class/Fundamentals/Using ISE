@@ -1,0 +1,7 @@
+	- Windows PowerShell has auto-complete (tab)
+	- ISE interface features IntelliSense, scripting and debugging and help windows
+	- While learning  (and even using) the ISE may be the best option
+	- ISE does require WPF so not available on Server Core instances and can take longer to load
+	- Snippets available
+	- Only supports Windows PowerShell
+	
