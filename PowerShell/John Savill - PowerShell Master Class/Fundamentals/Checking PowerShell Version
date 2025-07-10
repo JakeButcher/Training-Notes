@@ -1,0 +1,17 @@
+	- Get-Host
+	- $PSVersionTable
+	- $PSVersionTable.PSVersion
+	- $PSVersionTable.PSVersion.Major
+
+**Above will show VS Code version if executed in VS Code
+To get this to show correctly change terminal to PowerShell (pwsh)
+
+
+
+32bit and 64bit PowerShell
+	- Both 32 and 64-bit versions available
+	- A 32-bit OS can only have the 32-bit version installed
+	- A 64-bit OS can have both
+	- Use 32-bit when installing a module that requires 32-bit or connecting to a 32-bit computer
+	- For PowerShell Core you pick the version to install
+	
