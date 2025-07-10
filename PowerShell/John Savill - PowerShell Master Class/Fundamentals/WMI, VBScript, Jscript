@@ -1,0 +1,4 @@
+	- There are many scripting languages available which provide a richer language than available in batch files
+	- Each has its own format and different levels of capability
+	- Different Syntax needed between scripting languages and command line, so requires learning multiple systems and environments
+	- Not highly extensible
