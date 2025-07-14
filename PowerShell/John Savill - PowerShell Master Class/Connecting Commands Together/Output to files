@@ -1,0 +1,6 @@
+	- In a command session the > character can be used to send the output to  a file
+		○ Tasklist > procs.txt
+	- This also works in PowerShell
+		○ Get-Process > procs.txt
+	- Reality is > is a shortcut taking advantage of the pipeline
+		○ Get-Process | Out-File procs.txt
