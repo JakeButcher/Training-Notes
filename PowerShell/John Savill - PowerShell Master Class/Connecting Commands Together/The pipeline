@@ -1,0 +1,6 @@
+	- PowerShell commands within a session keeps the output as objects
+	- These objects can be passed along the pipeline to be manipulated by later commands
+	- Can check the type of an object
+		○ <var>.GetType()
+		○ <var>.GetType().fullname
+	
