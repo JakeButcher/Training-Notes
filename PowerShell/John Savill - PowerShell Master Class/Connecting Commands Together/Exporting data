@@ -1,0 +1,10 @@
+	- Simple use of pipeline is exporting of the data
+	- Initially data may be output to screen with a default formatting
+		○ Get-Process | Format-Table/Format-List
+
+	- Exporting out to other formats such as CSV file and XML file
+		○ Get-Process | Export-csv C:\stuff\proc.csv
+		○ Get-Process | Export-clixml C:\stuff\proc.cml
+
+	- When importing back it keeps them as objects
+		○ Import-Csv C:\stuff\proc.csv | where {$_.name - eq "notepad"} | Stop-Process
