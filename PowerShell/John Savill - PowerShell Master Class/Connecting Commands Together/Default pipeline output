@@ -1,0 +1,8 @@
+	- Typically at the end of a pipeline the data is sent to screen
+	- There are various different Out verb cmdlets
+	- The default is Out-Default
+	- This directs to Out-Host
+	- Other targets such as
+		○ Out-Printer
+		○ Out-GridView (this is cool and combine with -passthru to select then perform an action)
+		○ Out-Null to supress
