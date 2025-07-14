@@ -1,0 +1,4 @@
+	- PowerShell does not convert output to text
+	- Enables easy chaining of commands
+	- Normal commands can still be used
+	
