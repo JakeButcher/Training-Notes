@@ -1,0 +1,20 @@
+Regions:
+	- Data Centers deployed within latency defined perimeter and connected through a regional low-latency network
+	- Lots of options available(Below as of 2022)
+		○ 55 Azure regions
+		○ 140 Countries
+		○ 1.6 Pbps of bandwidth
+		○ 2 Azure Government locations (undisclosed)
+
+Availability Zones:
+	- Separate Data Centers within an Azure region (Independent power, network and cooling)
+	- Used for mission-critical apps
+
+Geographies
+	- Describes a discrete market, typically containing two or more regions
+	- Preserves Data residency and compliance boundaries
+	- Each region is part of a single geography and service availability (Compliance and Data Residency apply)
+
+Region Pairs:
+	- Region will take over when its Region pair goes down
+
