@@ -1,0 +1,21 @@
+VMs = Software emulations of physical computers
+
+Represent IaaS - Don't have to maintain hardware
+
+Provides:
+	- Total control over OS
+	- Run Customer Software
+	- Development and Testing environment
+	- Extend DCs
+
+Available in different sizes
+
+
+
+
+	- Azure managed disks are block-level storage with volumes that are managed by Azure
+	- Managed disks are similar to physical disks in an on-prem environment, but virtualized. 
+	- With managed disks, you only need to specify the disk size, and Azure will provision automatically
+
+
+IOPS = Input/output operations per second
