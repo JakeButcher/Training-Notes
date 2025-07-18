@@ -1,0 +1,26 @@
+Cost Effective
+	- Pay-as-you-go
+	- No upfront costs
+	- No infrastructure management
+
+Scalability:
+	- Adapt to business needs
+		○ Vertical or Horizontal scalability
+
+Current:
+	- Up-to-date 
+		○ Microsoft responsible for Hardware Configuration, Software Patching, SW and HW upgrades, and faulty equipment
+
+Global:
+	- Easy to deploy in multiple regions
+	- Provide lower latency at a minimal cost
+
+Secure:
+	- Strict security policies in physical and digital layers
+
+Reliable:
+	- Provides redundancy and fault tolerance to resources
+	- Infrastructure built to accommodate disasters (backup components)
+	- Data in Azure Storage is replicated
+
+
