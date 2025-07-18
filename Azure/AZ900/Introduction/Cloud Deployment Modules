@@ -1,0 +1,37 @@
+Cloud Deployment Models:
+	- Public Cloud
+	- Private Cloud
+	- Hybrid Cloud
+
+Public Cloud:
+	- No Hardware Maintenance 
+	- Scalable and Pay-as-you-go
+	- Start immediately
+
+	- Not 100% control over the hardware
+	- No Legacy apps
+	- Potential Legal constraints related to location of data
+	- Potential Security Standards or Conditions can't be met in public cloud environments
+
+
+Private Cloud:
+	- A.K.A "traditional on-premises" 
+		○ Resources are deployed in on-prem Data Centre using virtualization and resource management tools
+	- Full control over infrastructure
+	- Meet strict security, compliance or legal requirements
+	- Accommodate Legacy apps
+	- Full flexibility over desired configurations
+
+	- Responsible for management and OS Patching
+
+
+Hybrid Cloud:
+	- Combination of Public and Private clouds (allowing data to be shared between them
+	- Greatest Flexibility
+	- On-Prem can meet compliance, legal, or security standards
+	- Can run apps on out-of-date hardware or OS
+
+	- Potential large upfront investment
+	- Hardware management
+
+
