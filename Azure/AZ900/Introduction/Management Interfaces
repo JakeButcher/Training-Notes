@@ -1,0 +1,31 @@
+Azure Portal:
+	- Graphical User Interface for accessing Azure Cloud Services / other Cloud Resources
+	- Web Application
+	- https://portal.azure.com
+
+Azure Command Line Interface (CLI) / Azure PowerShell Module:
+	- Cross-Platform options
+	- Enable you to connect to Azure Cloud Tenant (account) and manage resources
+	- Optimize and automate work through scripts
+	
+Azure Cloud Shell:
+	- Browser accessible
+	- Pre-configured shell experience
+	- No overhead installing, versioning or maintaining
+	- Microsoft-managed admin machine in Azure
+	
+Azure SDKs:
+	- Software Development Kits
+	- Collections of libraries for programming languages
+	- Help to build apps that manage and interact within Azure
+
+Azure Mobile App:
+	- Available on Apple and Google Play stores
+	- Can be an option to:
+		○ Monitor the health and status of Azure Resources
+		○ Quickly diagnose and fix issues
+		○ Run commands to manage Azure Resources
+	
+	 
+	
+	
