@@ -1,0 +1,12 @@
+Different investment approaches
+
+## CapEx:
+	- Spend money upfront
+	- Value reduced over time
+
+## OpEx:
+	- No upfront cost 
+
+## Economies of Scale:
+	- Ability to operate more efficiently/lower cost
+	- Lower variable cost
