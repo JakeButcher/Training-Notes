@@ -12,6 +12,7 @@ This repo contains .md files of all my training notes, exported from OneDrive. T
 │ ├── Operating Systems
 │ │ ├── Windows
 │ │ ├── Linux (Ubuntu)
+│ ├── SharePoint CMS
 │
 ├── Cloud Notes
 │ ├── Cloud Providers
