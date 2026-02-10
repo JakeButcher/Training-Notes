@@ -1,4 +1,4 @@
-Difference Between Team Site And Communication Site In SharePoint - SharePoint & Microsoft Power Platform Tutorials - SPGuides
+[Difference Between Team Site And Communication Site In SharePoint - SharePoint & Microsoft Power Platform Tutorials - SPGuides](https://www.spguides.com/sharepoint-communication-site-vs-team-site/)
 
 
 
