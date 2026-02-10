@@ -2,6 +2,7 @@
 This repo contains .md files of all my training notes, exported from OneDrive. These are used for personal training purposes and understanding core concepts of Cloud / IT services. Allows me to revisit old topics and document any future learning / share with others.
 
 # Repository Structure
+# Repository Structure
 ```text
 │
 ├── Certifications
@@ -13,6 +14,20 @@ This repo contains .md files of all my training notes, exported from OneDrive. T
 │ │ ├── Windows
 │ │ ├── Linux (Ubuntu)
 │ ├── SharePoint CMS
+│
+├── Coding/Scripting Notes
+│ ├── Python
+│ ├── JavaScript
+│ ├── PowerShell
+│
+└── README.md
+```
+
+---
+
+# Future Notes (TODO)
+
+```text
 │
 ├── Cloud Notes
 │ ├── Cloud Providers
@@ -38,9 +53,6 @@ This repo contains .md files of all my training notes, exported from OneDrive. T
 │ │ ├── Version Control
 │
 ├── Coding/Scripting Notes
-│ ├── Python
-│ ├── JavaScript
-│ ├── PowerShell
 │ ├── Terraform
 │ ├── Java
 │
