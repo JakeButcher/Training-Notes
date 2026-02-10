@@ -1,0 +1,1 @@
+Hub Sites allow site associations and sub-sites, in turn allowing for hub navigation. Also the site permissions can be extended onto these sites, allowing for easier permission management. Extended search scopes can also help users with easy data access and navigation.
