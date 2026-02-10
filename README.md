@@ -1,5 +1,5 @@
 ## Training-Notes
-This repo contains .md files of all my training notes, exported from OneDrive. These are used for personal training purposes and understanding core concepts of Cloud / IT services. Allows me to revisit old topics and document any future learning / share with others.
+This repo contains .md files of all my training notes, exported from OneNote. These are used for personal training purposes and understanding core concepts of Cloud / IT services. Allows me to revisit old topics and document any future learning / share with others.
 
 # Repository Structure
 # Repository Structure
